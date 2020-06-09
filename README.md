@@ -13,6 +13,18 @@
 ## Usage(使用)
 
 ...
+commonjs
+`const dataType = require('lib-datatype/lib')`
+
+es6
+`import dataType from 'lib-datatype/lib'`
+
+`console.log('dataType(null)')`
+`<====  null`
+`console.log('dataType('123')')`
+`<====  String`
+`console.log('dataType(123)')`
+`<====  Number`
 
 ... 其他内容 ...
 
