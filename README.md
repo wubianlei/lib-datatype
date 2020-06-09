@@ -1,6 +1,6 @@
 
 
-# @wubianlei/datatype
+# lib-datatype
 
 ## 概述
 
@@ -8,7 +8,7 @@
 
 ## Install(安装)
 
-npm install --save @wubianlei/datatype
+`npm i --save lib-datatype`
 
 ## Usage(使用)
 
@@ -16,8 +16,9 @@ npm install --save @wubianlei/datatype
 
 ... 其他内容 ...
 
-## Donation
+## NPM Publish
 
+`sh npm-publish.sh`
 ...
 
 ## Contact me(联系我)
